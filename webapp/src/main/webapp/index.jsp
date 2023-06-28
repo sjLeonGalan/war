@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Hola Santiago, esto es una prueba para el TFG</h1>
+    <h1>Hola Santiago, esto es una prueba para el TFM</h1>
     <h1>Registro de nuevo usuario</h1>
     <p>Rellena los siguientes parámetros.</p>
     <hr>
